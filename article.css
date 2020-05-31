@@ -1,0 +1,40 @@
+body
+{
+	border:20px solid #bdc3c7;
+	max-width: 700px;
+	width: 80%;
+	margin:0 auto;
+}
+h2
+{
+	width: 12%;
+	color:#2c3e50;
+	padding-left: 20px;
+}
+hr
+{
+	border:1px dotted #bdc3c7;
+	padding-left: 20px;
+}
+p
+{
+	padding-left: 20px;
+	font-family: sans-serif;
+}
+
+.date
+{
+	margin:20px;
+	color: #3498db;
+	letter-spacing: 1px;
+	font-size: 30px;
+}
+blackquote
+{
+	padding-left: 1em;
+	border-left: 5px #bdc3c7 solid;
+	display: block;
+}
+
+/*border:
+date color:#3498db h2 color:#2c3e50
